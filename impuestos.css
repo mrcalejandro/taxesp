@@ -1,3 +1,10 @@
+body{
+    background-image: url(./revistaeconomia-2023-04-11T101801.491.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
 .header{
     height: 50px;
     background-color: antiquewhite;
